@@ -6,9 +6,9 @@ Time spent: 10 hours spent in total
 
 The following functionality is completed:
 
-- [done] User can compose a tweet. (4pts)
-- [done] User can favorite a tweet. (4pts)
-- [done] User can retweet a tweet. (2pts)
+- [x] User can compose a tweet. (4pts)
+- [x] User can favorite a tweet. (4pts)
+- [x] User can retweet a tweet. (2pts)
 
 ## Video Walkthrough
 
